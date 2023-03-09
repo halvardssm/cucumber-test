@@ -666,6 +666,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/node@npm:^18.14.6":
+  version: 18.14.6
+  resolution: "@types/node@npm:18.14.6"
+  checksum: 2f88f482cabadc6dbddd627a1674239e68c3c9beab56eb4ae2309fb96fd17fc3a509d99b0309bafe13b58529574f49ecf3a583f2ebe2896dd32fe4be436dc96e
+  languageName: node
+  linkType: hard
+
 "@types/prop-types@npm:*":
   version: 15.7.5
   resolution: "@types/prop-types@npm:15.7.5"
@@ -1009,6 +1016,7 @@ __metadata:
   resolution: "codesandbox-template-vite@workspace:."
   dependencies:
     "@cucumber/cucumber": ^9.0.0
+    "@types/node": ^18.14.6
     "@types/react": ^18.0.15
     "@types/react-dom": ^18.0.6
     "@vitejs/plugin-react": ^2.0.0
